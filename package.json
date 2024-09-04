@@ -1,28 +1,11 @@
 {
-  "name": "nft_landing_page",
-  "version": "1.0.0",
-  "main": "truffle-config.js",
-  "directories": {
-    "test": "test"
-  },
+  "name": "midu-api",
+  "module": "index.ts",
+  "type": "module",
   "devDependencies": {
-    "lite-server": "^2.6.1",
-    "live-server": "^1.2.2"
+    "@types/bun": "latest"
   },
-  "scripts": {
-    "dev": "lite-server",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AngelDarco/nft_landing_page.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AngelDarco/nft_landing_page/issues"
-  },
-  "homepage": "https://github.com/AngelDarco/nft_landing_page#readme",
-  "description": ""
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
 }
