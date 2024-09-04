@@ -1,0 +1,18 @@
+{
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "always",
+        "source.fixAll": "always"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    "[json]": {
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+    }
+}
