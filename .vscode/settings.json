@@ -9,9 +9,6 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode",
     },
     "[json]": {
-        "editor.quickSuggestions": {
-            "strings": true
-        },
         "editor.defaultFormatter": "esbenp.prettier-vscode",
 
     }
