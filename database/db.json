@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "autor": "Miguel Ángel Durán García",
+    "frase": "La va a liar parda",
+    "image": "/public/assets/midudev.jpg"
+  },
+  {
+    "id": 2,
+    "autor": "Miguel Ángel Durán García",
+    "frase": "Va a petar",
+    "image": "/public/assets/midudev.jpg"
+  },
+
+  {
+    "id": 3,
+    "autor": "Miguel Ángel Durán García",
+    "frase": "Te quedaras tarumba",
+    "image": "/public/assets/midudev.jpg"
+  },
+  {
+    "id": 4,
+    "autor": "Miguel Ángel Durán García",
+    "frase": "Vais a flipar",
+    "image": "/public/assets/midudev.jpg"
+  },
+  {
+    "id": 5,
+    "autor": "Miguel Ángel Durán García",
+    "frase": "ReactJs es lo mejor",
+    "image": "/public/assets/midudev.jpg"
+  },
+  {
+    "id": 6,
+    "autor": "Miguel Ángel Durán García",
+    "frase": "La madre que lo pario",
+    "image": "/public/assets/midudev.jpg"
+  },
+  {
+    "id": 7,
+    "autor": "darco",
+    "frase": "La madre que me trajo",
+    "image": "/public/assets/midudev.jpg"
+  },
+
+  {
+    "id": 8,
+    "autor": "darco",
+    "frase": "Quedo para lamerlo",
+    "image": "/public/assets/midudev.jpg"
+  }
+]
